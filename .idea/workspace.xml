@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="523208f3-20f0-41a3-8c77-1435cfb741f8" name="Default Changelist" comment="" />
+    <list default="true" id="523208f3-20f0-41a3-8c77-1435cfb741f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/insert-chat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/chat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/users.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +50,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1sAUcv2o28ANi3hx9Y9qdmkhng6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,15 +64,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dansleym\Desktop\OSPanel_Min\domains\localhost\chat\js" />
+      <recent name="C:\Users\Dansleym\Desktop\chat" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dansleym\Desktop\OSPanel_Min\domains\localhost\chat\php" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Dansleym\Desktop\chat" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -50,17 +88,29 @@
       <updated>1620314970465</updated>
       <workItem from="1620314971692" duration="5603000" />
       <workItem from="1620375850834" duration="12494000" />
-      <workItem from="1620392001117" duration="7256000" />
+      <workItem from="1620392001117" duration="7910000" />
+      <workItem from="1620465897553" duration="9265000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1083" y="410" key="NewPhpFileDialog" timestamp="1620392577826">
+    <state x="1083" y="410" key="NewPhpFileDialog" timestamp="1620467812161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1083" y="410" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620392577826" />
+    <state x="1083" y="410" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1620467812161" />
   </component>
 </project>
